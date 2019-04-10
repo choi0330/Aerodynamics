@@ -1,2 +1,2 @@
 # Aerodynamics
-# projects on analyzing airfoils
+# projects of analyzing lifts on wings
